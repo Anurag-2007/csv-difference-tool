@@ -35,7 +35,9 @@ Update the column name in the script
 Run: python filter.py
 
 
-How It Works
+
+
+👨‍💻 How It Works
 
 Loads both CSV files into memory
 
