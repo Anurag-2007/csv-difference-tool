@@ -23,7 +23,7 @@ The cleaned data is saved as a new CSV file.
 │── file2.csv
 │── output.csv
 
-
+---
 🚀 Usage
 
 Place both CSV files in the same directory as the script
@@ -35,7 +35,7 @@ Update the column name in the script
 Run: python filter.py
 
 
-
+---
 
 👨‍💻 How It Works
 
