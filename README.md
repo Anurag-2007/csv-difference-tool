@@ -41,7 +41,7 @@ Run: python filter.py
 
 Loads both CSV files into memory
 
-Normalizes values in the chosen column
+Normalizes values in chosen column
 
 Removes rows from File 2 where the key value exists in File 1
 
